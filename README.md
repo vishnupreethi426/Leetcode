@@ -9,6 +9,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/vishnupreethi426/Leetcode/tree/master/0682-baseball-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnupreethi426/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnupreethi426/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnupreethi426/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnupreethi426/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnupreethi426/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
