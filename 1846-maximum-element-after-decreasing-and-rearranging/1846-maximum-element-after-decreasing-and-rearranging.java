@@ -6,9 +6,9 @@ class Solution {
         int max = arr[0];
         for(int i=1;i<n;i++){
             arr[i] = Math.min(arr[i],arr[i-1]+1);
-            if(arr[i]-arr[i-1]<=1){
+           
             max = Math.max(max,arr[i]);
-        }
+        
      }
         return  max;
     }
