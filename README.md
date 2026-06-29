@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnupreethi426/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
@@ -80,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Enumeration
 |  |
