@@ -52,6 +52,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnupreethi426/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnupreethi426/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vishnupreethi426/Leetcode/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -113,4 +115,16 @@
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnupreethi426/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
