@@ -12,6 +12,7 @@
 | [0682-baseball-game](https://github.com/vishnupreethi426/Leetcode/tree/master/0682-baseball-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnupreethi426/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnupreethi426/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnupreethi426/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -103,14 +104,17 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vishnupreethi426/Leetcode/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vishnupreethi426/Leetcode/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vishnupreethi426/Leetcode/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,4 +131,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
