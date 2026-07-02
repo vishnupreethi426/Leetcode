@@ -151,4 +151,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/vishnupreethi426/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
