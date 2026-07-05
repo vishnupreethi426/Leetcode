@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0682-baseball-game](https://github.com/vishnupreethi426/Leetcode/tree/master/0682-baseball-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/vishnupreethi426/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnupreethi426/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnupreethi426/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [1301-number-of-paths-with-max-score](https://github.com/vishnupreethi426/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/vishnupreethi426/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vishnupreethi426/Leetcode/tree/master/0200-number-of-islands) |
+| [1301-number-of-paths-with-max-score](https://github.com/vishnupreethi426/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
