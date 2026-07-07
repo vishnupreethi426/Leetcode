@@ -90,6 +90,7 @@
 | [0002-add-two-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupreethi426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/vishnupreethi426/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vishnupreethi426/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
 | ------- |
