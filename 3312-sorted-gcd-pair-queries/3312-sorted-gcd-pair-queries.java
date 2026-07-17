@@ -6,48 +6,33 @@ class Solution {
         int[] freq = new int[max + 1];
         for (int x : nums) freq[x]++;
 
-        long[] divisible = new long[max + 1];
-
-        // Count numbers divisible by i
-        for (int i = 1; i <= max; i++) {
-            for (int j = i; j <= max; j += i) {
-                divisible[i] += freq[j];
-            }
-        }
+        long[] cnt = new long[max + 1];
+        for (int i = 1; i <= max; i++)
+            for (int j = i; j <= max; j += i)
+                cnt[i] += freq[j];
 
         long[] exact = new long[max + 1];
-
-        // Inclusion-Exclusion
         for (int i = max; i >= 1; i--) {
-            long pairs = divisible[i] * (divisible[i] - 1) / 2;
-            for (int j = i + i; j <= max; j += i) {
-                pairs -= exact[j];
-            }
-            exact[i] = pairs;
+            exact[i] = cnt[i] * (cnt[i] - 1) / 2;
+            for (int j = i * 2; j <= max; j += i)
+                exact[i] -= exact[j];
         }
 
-        // Prefix counts
         long[] prefix = new long[max + 1];
-        for (int i = 1; i <= max; i++) {
+        for (int i = 1; i <= max; i++)
             prefix[i] = prefix[i - 1] + exact[i];
-        }
 
         int[] ans = new int[queries.length];
-
         for (int k = 0; k < queries.length; k++) {
             long target = queries[k] + 1;
-
-            int lo = 1, hi = max;
-            while (lo < hi) {
-                int mid = lo + (hi - lo) / 2;
-                if (prefix[mid] >= target)
-                    hi = mid;
-                else
-                    lo = mid + 1;
+            int l = 1, r = max;
+            while (l < r) {
+                int m = (l + r) / 2;
+                if (prefix[m] >= target) r = m;
+                else l = m + 1;
             }
-            ans[k] = lo;
+            ans[k] = l;
         }
-
         return ans;
     }
 }
