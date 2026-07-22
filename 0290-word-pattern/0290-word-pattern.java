@@ -1,28 +1,24 @@
-import java.util.*;
-
 class Solution {
     public boolean wordPattern(String pattern, String s) {
-        String[] words = s.split(" ");
-
-        if (pattern.length() != words.length)
+        HashMap<Character,String> map = new HashMap<>();
+        String ch[] = s.trim().split("\\s+");
+        if(pattern.length()!=ch.length){
             return false;
-
-        HashMap<Object, Object> seen = new HashMap<>();
-
-        for (int i = 0; i < pattern.length(); i++) {
-            String keyP = "p" + pattern.charAt(i);
-            String keyW = "w" + words[i];
-
-            if (seen.containsKey(keyP) && !seen.get(keyP).equals(words[i]))
-                return false;
-
-            if (seen.containsKey(keyW) && !seen.get(keyW).equals(pattern.charAt(i)))
-                return false;
-
-            seen.put(keyP, words[i]);
-            seen.put(keyW, pattern.charAt(i));
         }
-
+        for(int i = 0;i<pattern.length();i++){
+            char c = pattern.charAt(i);
+            if(map.containsKey(c)){
+                if(!map.get(c).equals(ch[i])){
+                    return false;
+                }
+            }
+            else{
+                if(map.containsValue(ch[i])){
+                    return false;
+                }
+                map.put(c,ch[i]);
+            }
+        }
         return true;
     }
 }
