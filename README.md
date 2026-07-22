@@ -40,6 +40,7 @@
 | [0205-isomorphic-strings](https://github.com/vishnupreethi426/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/vishnupreethi426/Leetcode/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnupreethi426/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnupreethi426/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -93,6 +94,7 @@
 | [0171-excel-sheet-column-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vishnupreethi426/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/vishnupreethi426/Leetcode/tree/master/0290-word-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnupreethi426/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnupreethi426/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
