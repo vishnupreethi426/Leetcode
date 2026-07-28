@@ -1,19 +1,21 @@
 class Solution {
     public String smallestPalindrome(String s) {
-        int n = s.length(), j = 0;
-        int[] freq = new int[26];
-        char[] chars = s.toCharArray();
+        int n = s.length();
+        String str = s.substring(0, n / 2);
+        char[] ch = str.toCharArray();
+        Arrays.sort(ch);
 
-        for (int i = 0; i < n >> 1; i++)
-            freq[(chars[i] & 31) - 1]++;
+        String first = new String(ch);
+        StringBuilder res = new StringBuilder();
 
-        for (int i = 0; i < 26; i++) {
-            while (freq[i]-- > 0) {
-                chars[j] = (char) (97 + i);
-                chars[n - 1 - j++] = (char) (97 + i);
-            }
+        res.append(first);
+
+        if ((n & 1) == 1) {
+            res.append(s.charAt(n / 2));
         }
 
-        return new String(chars);
+        res.append(new StringBuilder(first).reverse());
+
+        return res.toString();
     }
 }
