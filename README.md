@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vishnupreethi426/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupreethi426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/vishnupreethi426/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -75,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vishnupreethi426/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1301-number-of-paths-with-max-score](https://github.com/vishnupreethi426/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
