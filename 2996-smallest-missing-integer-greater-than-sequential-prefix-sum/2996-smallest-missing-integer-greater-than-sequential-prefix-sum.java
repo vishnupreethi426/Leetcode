@@ -1,6 +1,9 @@
 class Solution {
     public int missingInteger(int[] nums) {
         int sum = nums[0];
+        boolean[] seen = new boolean[101];
+
+        for (int x : nums) seen[x] = true;
 
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i - 1] + 1)
@@ -9,18 +12,9 @@ class Solution {
                 break;
         }
 
-        while (true) {
-            boolean found = false;
-
-            for (int n : nums) {
-                if (n == sum) {
-                    found = true;
-                    break;
-                }
-            }
-
-            if (!found) return sum;
+        while (sum <= 100 && seen[sum])
             sum++;
-        }
+
+        return sum;
     }
 }
