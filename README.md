@@ -31,6 +31,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnupreethi426/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vishnupreethi426/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishnupreethi426/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishnupreethi426/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vishnupreethi426/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -170,6 +171,7 @@
 | [1406-stone-game-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishnupreethi426/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishnupreethi426/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vishnupreethi426/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishnupreethi426/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -214,6 +216,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/vishnupreethi426/Leetcode/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vishnupreethi426/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishnupreethi426/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -347,6 +350,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/vishnupreethi426/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vishnupreethi426/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
@@ -365,18 +369,21 @@
 | [1140-stone-game-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |
 | ------- |
@@ -385,6 +392,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
