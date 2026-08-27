@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/vishnupreethi426/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/vishnupreethi426/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/vishnupreethi426/Leetcode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/vishnupreethi426/Leetcode/tree/master/0486-predict-the-winner) |
@@ -70,6 +71,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vishnupreethi426/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vishnupreethi426/Leetcode/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnupreethi426/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishnupreethi426/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -362,6 +364,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/vishnupreethi426/Leetcode/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vishnupreethi426/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -437,4 +440,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
