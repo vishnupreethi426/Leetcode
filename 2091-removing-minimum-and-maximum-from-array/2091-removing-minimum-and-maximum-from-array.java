@@ -1,22 +1,18 @@
-import java.util.*;
-
 class Solution {
     public int minimumDeletions(int[] nums) {
-        ArrayList<Integer> arr = new ArrayList<>();
-
-        for (int x : nums) {
-            arr.add(x);
-        }
-
-        int min = Collections.min(arr);
-        int max = Collections.max(arr);
-
-        int minIndex = arr.indexOf(min);
-        int maxIndex = arr.indexOf(max);
-
         int n = nums.length;
 
-        // minIndex and maxIndex: first/last positions
+        int minIndex = 0;
+        int maxIndex = 0;
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] < nums[minIndex])
+                minIndex = i;
+
+            if (nums[i] > nums[maxIndex])
+                maxIndex = i;
+        }
+
         int left = Math.max(minIndex, maxIndex) + 1;
         int right = n - Math.min(minIndex, maxIndex);
 
