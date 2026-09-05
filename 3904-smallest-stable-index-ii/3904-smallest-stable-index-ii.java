@@ -4,7 +4,7 @@
     public int firstStableIndex(int[] nums, int k) {
         int n = nums.length;
 
-        // suffixMin[i] = minimum from i to n-1
+
         int[] suffixMin = new int[n];
 
         suffixMin[n - 1] = nums[n - 1];
@@ -13,7 +13,7 @@
             suffixMin[i] = Math.min(nums[i], suffixMin[i + 1]);
         }
 
-        // Find the first stable index
+
         int max = nums[0];
 
         for (int i = 0; i < n; i++) {
