@@ -1,21 +1,35 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        int[] f = new int[10];
-        int res = 0;
+        int count = 0;
 
-        for (int d : digits) f[d]++;
+        for (int num = 100; num <= 999; num++) {
 
-        for (int i = 1; i < 10; i++) 
-            for (int j = 0; j < 10; j++) 
-                for (int k = 0; k < 9; k += 2) {
-                    f[i]--; f[j]--; f[k]--;
+            // Number must be even
+            if (num % 2 != 0) {
+                continue;
+            }
 
-                    if (f[i] >= 0 && f[j] >= 0 && f[k] >= 0) res++;
+            int a = num / 100;
+            int b = (num / 10) % 10;
+            int c = num % 10;
 
-                    f[i]++; f[j]++; f[k]++;
-                }           
-        
+            int[] temp = new int[10];
 
-        return res;
+            // Count digits available in input
+            for (int digit : digits) {
+                temp[digit]++;
+            }
+
+            // Use one copy of each digit
+            temp[a]--;
+            temp[b]--;
+            temp[c]--;
+
+            if (temp[a] >= 0 && temp[b] >= 0 && temp[c] >= 0) {
+                count++;
+            }
+        }
+
+        return count;
     }
 }
