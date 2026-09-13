@@ -10,15 +10,10 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-
-        if (head == null || head.next == null) {
+        if (head == null || head.next == null)
             return head;
-        }
 
-        // Find middle
-        ListNode slow = head;
-        ListNode fast = head;
-        ListNode prev = null;
+        ListNode slow = head, fast = head, prev = null;
 
         while (fast != null && fast.next != null) {
             prev = slow;
@@ -26,42 +21,30 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // Split into two lists
         prev.next = null;
 
-        // Sort both halves
         ListNode left = sortList(head);
         ListNode right = sortList(slow);
 
-        // Merge
         return merge(left, right);
     }
 
-    public ListNode merge(ListNode left, ListNode right) {
-
+    ListNode merge(ListNode a, ListNode b) {
         ListNode dummy = new ListNode(0);
-        ListNode current = dummy;
+        ListNode temp = dummy;
 
-        while (left != null && right != null) {
-
-            if (left.val < right.val) {
-                current.next = left;
-                left = left.next;
+        while (a != null && b != null) {
+            if (a.val < b.val) {
+                temp.next = a;
+                a = a.next;
             } else {
-                current.next = right;
-                right = right.next;
+                temp.next = b;
+                b = b.next;
             }
-
-            current = current.next;
+            temp = temp.next;
         }
 
-        if (left != null) {
-            current.next = left;
-        }
-
-        if (right != null) {
-            current.next = right;
-        }
+        temp.next = (a != null) ? a : b;
 
         return dummy.next;
     }
