@@ -13,6 +13,7 @@
 | [0119-pascals-triangle-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupreethi426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/vishnupreethi426/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0179-largest-number) |
@@ -71,6 +72,7 @@
 | [0076-minimum-window-substring](https://github.com/vishnupreethi426/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnupreethi426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/vishnupreethi426/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -129,6 +131,7 @@
 | [0119-pascals-triangle-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/vishnupreethi426/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vishnupreethi426/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0486-predict-the-winner](https://github.com/vishnupreethi426/Leetcode/tree/master/0486-predict-the-winner) |
@@ -169,6 +172,7 @@
 | [0020-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vishnupreethi426/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/vishnupreethi426/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/vishnupreethi426/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -491,6 +495,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bucket Sort
@@ -509,4 +514,12 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/vishnupreethi426/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
