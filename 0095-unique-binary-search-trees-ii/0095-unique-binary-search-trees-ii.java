@@ -15,34 +15,28 @@
  */
 class Solution {
     public List<TreeNode> generateTrees(int n) {
-        return createTrees(1, n);
+        return solve(1, n);
     }
 
-    public List<TreeNode> createTrees(int start, int end) {
-        List<TreeNode> result = new ArrayList<>();
+    List<TreeNode> solve(int start, int end) {
+        List<TreeNode> list = new ArrayList<>();
 
         if (start > end) {
-            result.add(null);
-            return result;
+            list.add(null);
+            return list;
         }
 
         for (int i = start; i <= end; i++) {
-
-            List<TreeNode> left = createTrees(start, i - 1);
-            List<TreeNode> right = createTrees(i + 1, end);
-
-            for (TreeNode l : left) {
-                for (TreeNode r : right) {
-
+            for (TreeNode left : solve(start, i - 1)) {
+                for (TreeNode right : solve(i + 1, end)) {
                     TreeNode root = new TreeNode(i);
-                    root.left = l;
-                    root.right = r;
-
-                    result.add(root);
+                    root.left = left;
+                    root.right = right;
+                    list.add(root);
                 }
             }
         }
 
-        return result;
+        return list;
     }
 }
