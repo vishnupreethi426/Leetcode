@@ -136,6 +136,7 @@
 | [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vishnupreethi426/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0392-is-subsequence](https://github.com/vishnupreethi426/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vishnupreethi426/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vishnupreethi426/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/1140-stone-game-ii) |
@@ -188,6 +189,7 @@
 | [0383-ransom-note](https://github.com/vishnupreethi426/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vishnupreethi426/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/vishnupreethi426/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vishnupreethi426/Leetcode/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishnupreethi426/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/vishnupreethi426/Leetcode/tree/master/1927-sum-game) |
@@ -271,6 +273,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnupreethi426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/vishnupreethi426/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/vishnupreethi426/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
