@@ -6,16 +6,16 @@ class Solution {
         for (int num : nums) {
             long[] next = new long[k];
 
-            // Start a new subarray
+
             next[num % k]++;
 
-            // Extend previous subarrays
+
             for (int r = 0; r < k; r++) {
                 int newR = (int)((r * (long)(num % k)) % k);
                 next[newR] += dp[r];
             }
 
-            // Add subarrays ending here to the answer
+
             for (int r = 0; r < k; r++) {
                 ans[r] += next[r];
             }
