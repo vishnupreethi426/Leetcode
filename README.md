@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/vishnupreethi426/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/vishnupreethi426/Leetcode/tree/master/0455-assign-cookies) |
@@ -79,6 +80,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/vishnupreethi426/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/vishnupreethi426/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -156,6 +158,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/vishnupreethi426/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/vishnupreethi426/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -449,6 +452,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/vishnupreethi426/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
@@ -543,4 +547,8 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vishnupreethi426/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
