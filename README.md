@@ -9,6 +9,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0120-triangle) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -373,6 +375,7 @@
 | [0096-unique-binary-search-trees](https://github.com/vishnupreethi426/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
@@ -381,6 +384,7 @@
 | [0096-unique-binary-search-trees](https://github.com/vishnupreethi426/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search
 |  |
@@ -558,6 +562,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vishnupreethi426/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
