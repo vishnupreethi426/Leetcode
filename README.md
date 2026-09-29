@@ -45,6 +45,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishnupreethi426/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/vishnupreethi426/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vishnupreethi426/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vishnupreethi426/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vishnupreethi426/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishnupreethi426/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -151,6 +152,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/vishnupreethi426/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/1510-stone-game-iv) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vishnupreethi426/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/vishnupreethi426/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/vishnupreethi426/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -356,6 +358,7 @@
 | [0463-island-perimeter](https://github.com/vishnupreethi426/Leetcode/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vishnupreethi426/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vishnupreethi426/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vishnupreethi426/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
@@ -580,4 +583,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vishnupreethi426/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
