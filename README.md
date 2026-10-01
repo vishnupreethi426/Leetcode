@@ -136,6 +136,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/vishnupreethi426/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0118-pascals-triangle) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vishnupreethi426/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vishnupreethi426/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/vishnupreethi426/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupreethi426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/vishnupreethi426/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -583,6 +586,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vishnupreethi426/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
