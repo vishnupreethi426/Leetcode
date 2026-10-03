@@ -201,6 +201,7 @@
 | [0179-largest-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/vishnupreethi426/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/vishnupreethi426/Leetcode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/vishnupreethi426/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/vishnupreethi426/Leetcode/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/vishnupreethi426/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -228,6 +229,7 @@
 | [0020-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupreethi426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/vishnupreethi426/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/vishnupreethi426/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/vishnupreethi426/Leetcode/tree/master/0682-baseball-game) |
@@ -250,6 +252,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupreethi426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/vishnupreethi426/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0224-basic-calculator](https://github.com/vishnupreethi426/Leetcode/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/vishnupreethi426/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/vishnupreethi426/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -292,6 +295,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/vishnupreethi426/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/vishnupreethi426/Leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
