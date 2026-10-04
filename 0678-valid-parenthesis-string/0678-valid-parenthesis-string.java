@@ -12,7 +12,7 @@ class Solution {
                 min--;
                 max--;
             } 
-            else { // '*'
+            else {
                 min--;
                 max++;
             }
