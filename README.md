@@ -255,6 +255,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/vishnupreethi426/Leetcode/tree/master/0007-reverse-integer) |
 | [0096-unique-binary-search-trees](https://github.com/vishnupreethi426/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupreethi426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/vishnupreethi426/Leetcode/tree/master/0168-excel-sheet-column-title) |
