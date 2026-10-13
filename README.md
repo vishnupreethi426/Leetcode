@@ -196,6 +196,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vishnupreethi426/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vishnupreethi426/Leetcode/tree/master/0127-word-ladder) |
@@ -315,6 +316,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishnupreethi426/Leetcode/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnupreethi426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -621,4 +623,20 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vishnupreethi426/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
