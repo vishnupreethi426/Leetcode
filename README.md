@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/vishnupreethi426/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vishnupreethi426/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/vishnupreethi426/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/vishnupreethi426/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishnupreethi426/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/vishnupreethi426/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vishnupreethi426/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -172,6 +174,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishnupreethi426/Leetcode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0179-largest-number) |
@@ -204,6 +207,7 @@
 | [0022-generate-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/vishnupreethi426/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vishnupreethi426/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/vishnupreethi426/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/vishnupreethi426/Leetcode/tree/master/0131-palindrome-partitioning) |
