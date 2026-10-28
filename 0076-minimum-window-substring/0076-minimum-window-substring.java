@@ -3,44 +3,27 @@ class Solution {
     public String minWindow(String s, String t) {
         int[] freq = new int[128];
 
-        for (int i = 0; i < t.length(); i++) {
-            freq[t.charAt(i)]++;
-        }
+        for (char c : t.toCharArray())
+            freq[c]++;
 
-        int left = 0;
-        int count = t.length();
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
+        int left = 0, count = t.length();
+        int min = Integer.MAX_VALUE, start = 0;
 
         for (int right = 0; right < s.length(); right++) {
-            char ch = s.charAt(right);
-
-            if (freq[ch] > 0) {
+            if (freq[s.charAt(right)]-- > 0)
                 count--;
-            }
-            freq[ch]--;
 
             while (count == 0) {
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
+                if (right - left + 1 < min) {
+                    min = right - left + 1;
                     start = left;
                 }
 
-                char leftChar = s.charAt(left);
-                freq[leftChar]++;
-
-                if (freq[leftChar] > 0) {
+                if (++freq[s.charAt(left++)] > 0)
                     count++;
-                }
-
-                left++;
             }
         }
 
-        if (minLen == Integer.MAX_VALUE) {
-            return "";
-        }
-
-        return s.substring(start, start + minLen);
+        return min == Integer.MAX_VALUE ? "" : s.substring(start, start + min);
     }
 }
