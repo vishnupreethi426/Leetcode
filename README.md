@@ -32,6 +32,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/vishnupreethi426/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vishnupreethi426/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/vishnupreethi426/Leetcode/tree/master/0455-assign-cookies) |
@@ -143,6 +144,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vishnupreethi426/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/vishnupreethi426/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vishnupreethi426/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
