@@ -6,7 +6,7 @@ class Solution {
 
         int prefix = 1;
 
-        // Calculate prefix products
+
         for (int i = 0; i < n; i++) {
             ans[i] = prefix;
             prefix = prefix * nums[i];
@@ -14,7 +14,7 @@ class Solution {
 
         int suffix = 1;
 
-        // Calculate suffix products
+
         for (int i = n - 1; i >= 0; i--) {
             ans[i] = ans[i] * suffix;
             suffix = suffix * nums[i];
