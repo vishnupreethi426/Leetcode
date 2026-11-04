@@ -20,6 +20,7 @@
 | [0118-pascals-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/vishnupreethi426/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupreethi426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -94,6 +95,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/vishnupreethi426/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/vishnupreethi426/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnupreethi426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/vishnupreethi426/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -407,6 +409,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vishnupreethi426/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vishnupreethi426/Leetcode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vishnupreethi426/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vishnupreethi426/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
