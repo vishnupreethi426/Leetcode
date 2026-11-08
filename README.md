@@ -21,6 +21,7 @@
 | [0118-pascals-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnupreethi426/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vishnupreethi426/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
@@ -168,6 +169,7 @@
 | [0118-pascals-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/vishnupreethi426/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnupreethi426/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/vishnupreethi426/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vishnupreethi426/Leetcode/tree/master/0152-maximum-product-subarray) |
