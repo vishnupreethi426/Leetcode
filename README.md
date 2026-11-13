@@ -29,6 +29,7 @@
 | [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vishnupreethi426/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/vishnupreethi426/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/vishnupreethi426/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vishnupreethi426/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/vishnupreethi426/Leetcode/tree/master/0200-number-of-islands) |
@@ -104,6 +105,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vishnupreethi426/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vishnupreethi426/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnupreethi426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/vishnupreethi426/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/vishnupreethi426/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
@@ -139,6 +141,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishnupreethi426/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupreethi426/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/vishnupreethi426/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -201,6 +204,7 @@
 | [0056-merge-intervals](https://github.com/vishnupreethi426/Leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/vishnupreethi426/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vishnupreethi426/Leetcode/tree/master/0217-contains-duplicate) |
@@ -564,6 +568,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishnupreethi426/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/vishnupreethi426/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -668,6 +673,7 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vishnupreethi426/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0229-majority-element-ii) |
 ## Bidirectional Search
 |  |
