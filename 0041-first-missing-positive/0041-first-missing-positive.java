@@ -1,21 +1,32 @@
-import java.util.HashSet;
 
 class Solution {
     public int firstMissingPositive(int[] nums) {
 
-        HashSet<Integer> set = new HashSet<>();
+        int i = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            set.add(nums[i]);
-        }
+        while (i < nums.length) {
 
-        for (int i = 1; i <= nums.length + 1; i++) {
+            if (nums[i] > 0 && nums[i] <= nums.length &&
+                nums[i] != nums[nums[i] - 1]) {
 
-            if (!set.contains(i)) {
-                return i;
+                int correctIndex = nums[i] - 1;
+
+                int temp = nums[i];
+                nums[i] = nums[correctIndex];
+                nums[correctIndex] = temp;
+
+            } else {
+                i++;
             }
         }
 
-        return -1;
+        for (i = 0; i < nums.length; i++) {
+
+            if (nums[i] != i + 1) {
+                return i + 1;
+            }
+        }
+
+        return nums.length + 1;
     }
 }
