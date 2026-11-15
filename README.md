@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishnupreethi426/Leetcode/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vishnupreethi426/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/vishnupreethi426/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vishnupreethi426/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vishnupreethi426/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -237,6 +238,7 @@
 | [0020-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vishnupreethi426/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vishnupreethi426/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vishnupreethi426/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vishnupreethi426/Leetcode/tree/master/0058-length-of-last-word) |
@@ -453,6 +455,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vishnupreethi426/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/vishnupreethi426/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/0220-contains-duplicate-iii) |
