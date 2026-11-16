@@ -4,20 +4,20 @@ class Solution {
 
         while (s.length() > k) {
 
-            StringBuilder sb = new StringBuilder();
+            StringBuilder result = new StringBuilder();
 
             for (int i = 0; i < s.length(); i += k) {
 
                 int sum = 0;
 
-                for (int j = i; j < i + k && j < s.length(); j++) {
+                for (int j = i; j < Math.min(i + k, s.length()); j++) {
                     sum += s.charAt(j) - '0';
                 }
 
-                sb.append(sum);
+                result.append(sum);
             }
 
-            s = sb.toString();
+            s = result.toString();
         }
 
         return s;
