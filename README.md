@@ -40,6 +40,7 @@
 | [0220-contains-duplicate-iii](https://github.com/vishnupreethi426/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vishnupreethi426/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/vishnupreethi426/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/vishnupreethi426/Leetcode/tree/master/0455-assign-cookies) |
@@ -378,6 +379,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnupreethi426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/vishnupreethi426/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/vishnupreethi426/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -497,6 +499,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/vishnupreethi426/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishnupreethi426/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vishnupreethi426/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vishnupreethi426/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -556,6 +559,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/vishnupreethi426/Leetcode/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vishnupreethi426/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vishnupreethi426/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -717,4 +721,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishnupreethi426/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vishnupreethi426/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
