@@ -355,6 +355,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnupreethi426/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vishnupreethi426/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -376,6 +377,7 @@
 | [0011-container-with-most-water](https://github.com/vishnupreethi426/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vishnupreethi426/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/vishnupreethi426/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vishnupreethi426/Leetcode/tree/master/0151-reverse-words-in-a-string) |
