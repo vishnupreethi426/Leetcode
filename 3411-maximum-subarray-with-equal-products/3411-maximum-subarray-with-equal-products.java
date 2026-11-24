@@ -12,7 +12,7 @@ class Solution {
 
             for (int j = i; j < nums.length; j++) {
 
-                product = product * nums[j];
+                product *= nums[j];
 
                 gcd = findGCD(gcd, nums[j]);
 
@@ -29,13 +29,10 @@ class Solution {
 
     public long findGCD(long a, long b) {
 
-        while (b != 0) {
-
-            long temp = b;
-            b = a % b;
-            a = temp;
+        if (b == 0) {
+            return a;
         }
 
-        return a;
+        return findGCD(b, a % b);
     }
 }
